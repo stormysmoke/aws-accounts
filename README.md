@@ -5,16 +5,13 @@
 ## Organisation
 
 - ID: o-awk52fg60l
-- Master acccount name: QS Master
+- Master acccount: QS Master
 
 ## Accounts
 
 ### QS Master
 
-- Sign-in link: <https://qs-master.signin.aws.amazon.com/console>
-- IAM users:
-    - `daniel`
-    - `marco`
+Sign-in link: <https://qs-master.signin.aws.amazon.com/console>
 
 Master account of the organisation. Contains the credits and is used for consolidated billing with all the other accounts.
 
@@ -22,9 +19,8 @@ Master account of the organisation. Contains the credits and is used for consoli
 
 ### QS Alethena TGM
 
-- Sign-in link: <https://qs-alethena-tgm.signin.aws.amazon.com/console>
-- IAM users:
-    - `daniel`
-    - `marco`
+Sign-in link: <https://qs-alethena-tgm.signin.aws.amazon.com/console>
+
+TG-Monitor for Alethena (prod).
 
 ### QS Alethena TGM Dev
