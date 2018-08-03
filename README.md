@@ -16,6 +16,8 @@
     - `daniel`
     - `marco`
 
+Master account of the organisation. Contains the credits and is used for consolidated billing with all the other accounts.
+
 ### QS Tools
 
 ### QS Alethena TGM
